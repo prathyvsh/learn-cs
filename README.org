@@ -4,3 +4,15 @@ A curation of stand alone books that helps a beginner to learn about computers f
 ** Introduction
 
 This is a list of computer science books we have compiled after prospecting this field for around 8 years now. We have stratified the list by popular domains of computer science, so you might not find a stats/probability/category theory book here even though they have strong undercurrents and practical applications in CS. Our estimate is that by reading this list, one will come to have a broad and deep foundation for understanding the cutting edge theory and practice of CS today. We would love to hear from you if we have missed any must-reads or hidden gems. [[https://twitter.com/prabros][Tweet to us]] if you know about one!
+
+** Criteria
+
+*Self-contained*: The book should stand alone in giving up a well-rounded view on a certain area of Computer Science. So the ones that unlock access to other books are thus given priority over ones with pre-requisites.
+
+*Accessibility*: Books that are accessible and less intimidating for a newcomer are chosen. Some of the books here require some pre-requisite learning to get going and in such a case, relevant details are provided on how one can go about mastering the requisites. This is the reason why HtDP is chosen over SICP.
+
+*Fundamentals*: Books that teach fundamentals are chosen over ones that teach a particular technology. This is done because of shearing of layers whereby, latest technologies change really fast, but fundamentals stay stable over long periods of time.
+
+*Fun*: Books that treat the subject in a creative fun way are chosen over encyclopediac canons/surveys that catalog the state of art. This is the reason Udi Manber features over other encyclopediac manuals in the field.
+
+*Big Picture*: It should give one an umbrella view of the subject in hand and give enough depth to make them literate about the subject.
