@@ -1,0 +1,2 @@
+# Learn Computer Science from First Principles
+A curation of stand alone books that helps a beginner to learn about computers from first principles.
