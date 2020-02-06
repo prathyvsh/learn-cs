@@ -17,19 +17,25 @@ This is a list of computer science books we have compiled after prospecting this
 
 *Big Picture*: It should give one an umbrella view of the subject in hand and give enough depth to make them literate about the subject.
 
-** Intro
+* Intro
 
 Before one starts dipping toes into the ocean that is Computer Science, it helps to grab hold of a map of the field that gives a general understanding of the field. Let's see some of the books that will grant this vision.
 
-*** Primary Choice
-**** Patterns on the Stone
-***** Danny Hillis
+** Patterns on the Stone
+*** Danny Hillis
+**** Primary Choice
+
 Patterns on the Stone is a broad overview of Computer Science in a concise format. In about 100 pages you get the view of the field from bits to neural networks.
 
 **** Code
 ***** Charles Petzold
+**** Next Read
 
 Once you are done with Patterns on the Stone, a good thorough book that gives a bottom up perspective of how computers work is Charles Petzold's Code. The book starting from morse code builds upto sophisticated computer architectures that compute arithmetic and all along the author gives an in-depth view into how each component is constructed and what belongs where and why. A very illuminating read on how computers do the things they do.
 
 *** Other Notables
 **** ?
+
+** Beginning Programming
+
+Now that you have a grasp of the overall picture, it's time to do some hands on coding. One great place to start this journey is with HtDP, a book that deals in length about programming techniques. It uses a language called Racket which becomes the launchpad for bolstering the sound principles of programming.
