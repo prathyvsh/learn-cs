@@ -1,0 +1,38 @@
+* Some notes on progression
+
+The progression here makes use of a spiral curriculum like one where you get exposed to a distinct perspective to computer science and then keep looking at from different angles till you get one full revolution.
+Once a full coverage is received, we repeat from the first part again but this time with slightly tough topics to learn.
+
+⚪ Overview
+
+🔴 Hands on
+
+🟠 User Interface Design
+
+🟡 Higher Level Architecture:
+- Algorithms
+- Networks
+- Database
+
+🟢 Lower Level Architecture
+- Computer Organization
+- OS
+- Networking
+- Assembly
+
+🟣 Abstractions
+- Programming Languages
+- Paradigms
+- Computability
+- Theory
+
+🔵 Frontiers
+- Artificial Intelligence
+- Machine Learning
+- Quantum Computing
+
+🟤 Applications
+- Cryptography
+- Data Science
+
+⚫ Unassigned
