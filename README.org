@@ -25,8 +25,8 @@ Our estimate is that by reading this list, one will come to have a broad and dee
 
 Before one starts dipping toes into the ocean that is Computer Science, it helps to grab hold of a map of the field that gives a general understanding of the field. Let's see some of the books that will grant this vision.
 
-** Patterns on the Stone
-[[./img/patterns-on-the-stone.jpg]]
+** [[https://amzn.to/3of1yG6][The Pattern on the Stone]]
+[[./img/the-pattern-on-the-stone.jpg]]
 *** Danny Hillis
 **** Primary Choice
 
