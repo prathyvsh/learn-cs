@@ -46,7 +46,7 @@ Patterns on the Stone is a broad overview of Computer Science in a concise forma
 
 *** Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurti
 
-After getting an overview of computer science, we recommend straight away getting some hands on programming to get a feel for what it is like to interact with computers with the current set of technologies. A great book to start with here is HtDP that teaches you the basics of programming with a functional style.
+After getting an overview, we recommend some hands-on programming straight away to understand how it is like to interact with computers with the current crop of technologies. A great book to start with is How to Design Programs. It teaches programming from first principles: https://htdp.org
 
 ** Code
 *** Charles Petzold
