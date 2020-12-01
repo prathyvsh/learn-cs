@@ -1,4 +1,6 @@
 * Learn Computer Science from First Principles
+[[./img/cover.jpg]]
+
 A curation of stand alone books that helps a beginner to learn about computers from first principles.
 
 ** Introduction
@@ -24,6 +26,7 @@ Our estimate is that by reading this list, one will come to have a broad and dee
 Before one starts dipping toes into the ocean that is Computer Science, it helps to grab hold of a map of the field that gives a general understanding of the field. Let's see some of the books that will grant this vision.
 
 ** Patterns on the Stone
+[[./img/patterns-on-the-stone.jpg]]
 *** Danny Hillis
 **** Primary Choice
 
@@ -34,9 +37,6 @@ Patterns on the Stone is a broad overview of Computer Science in a concise forma
 **** Next Read
 
 Once you are done with Patterns on the Stone, a good thorough book that gives a bottom up perspective of how computers work is Charles Petzold's Code. The book starting from morse code builds upto sophisticated computer architectures that compute arithmetic and all along the author gives an in-depth view into how each component is constructed and what belongs where and why. A very illuminating read on how computers do the things they do.
-
-*** Other Notables
-**** ?
 
 ** Beginning Programming
 
