@@ -34,17 +34,16 @@ One picture which a learner should keep in mind is that the field of study of co
 Before one starts dipping toes into the ocean that is Computer Science, it helps to grab hold of a map of the field that gives a general understanding of the field. Let's see some of the books that will grant this vision.
 
 ** [[https://amzn.to/3of1yG6][The Pattern on the Stone]]
-[[./img/the-pattern-on-the-stone.jpg]]
 *** Danny Hillis
-**** Primary Choice
+
+[[./img/the-pattern-on-the-stone.jpg]]
 
 Patterns on the Stone is a broad overview of Computer Science in a concise format. In about 100 pages you get the view of the field from bits to neural networks.
 
-**** Code
-***** Charles Petzold
-**** Next Read
+** Code
+*** Charles Petzold
 
-Once you are done with Patterns on the Stone, a good thorough book that gives a bottom up perspective of how computers work is Charles Petzold's Code. The book starting from morse code builds upto sophisticated computer architectures that compute arithmetic and all along the author gives an in-depth view into how each component is constructed and what belongs where and why. A very illuminating read on how computers do the things they do.
+Once you are done with Patterns on the Stone, a good thorough book that gives a bottom up perspective of how computers work is Charles Petzold's Code. The book starting from morse code builds upto sophisticated computer architectures that compute arithmetic and all along the author gives an in-depth view into how each component is constructed and what belongs where and why. An illuminating read on how computers do the things they do.
 
 ** Beginning Programming
 
