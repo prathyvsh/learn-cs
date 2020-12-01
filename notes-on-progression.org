@@ -4,14 +4,22 @@ The progression here makes use of a spiral curriculum like one where you get exp
 Once a full coverage is received, we repeat from the first part again but this time with slightly tough topics to learn.
 
 ⚪ Overview
+- Map of Computer Science
+- What is Computer Science?
+- Why learn particular topics?
 
 🔴 Hands on
+- Building Software
+- Problem Solving skills
+- Shipping Software
 
 🟠 User Interface Design
+- UI Designing
+- Engineering
+- Delivery Process
 
 🟡 Higher Level Architecture:
 - Algorithms
-- Networks
 - Database
 
 🟢 Lower Level Architecture
@@ -26,13 +34,17 @@ Once a full coverage is received, we repeat from the first part again but this t
 - Computability
 - Theory
 
-🔵 Frontiers
+🔵 Distributed Systems
+- Networks
+- Algorithms
+
+🟤 Applications
+- Graphics
+- Cryptography
+- Data Science
+
+⚫ Frontiers
 - Artificial Intelligence
 - Machine Learning
 - Quantum Computing
 
-🟤 Applications
-- Cryptography
-- Data Science
-
-⚫ Unassigned
