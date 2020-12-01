@@ -15,9 +15,9 @@ Our estimate is that by reading this list, one will come to have a broad and dee
 
 *Accessibility*: Books that are accessible and less intimidating for a newcomer are chosen. Some of the books here require some pre-requisite learning to get going and in such a case, relevant details are provided on how one can go about mastering the requisites. This is the reason why HtDP is chosen over SICP.
 
-*Fundamentals*: Books that teach fundamentals are chosen over ones that teach a particular technology. This is done because of shearing of layers whereby, latest technologies change really fast, but fundamentals stay stable over long periods of time.
+*Fundamentals*: Books that teach fundamentals are chosen over ones that teach a particular technology. This is done because of shearing of layers whereby, latest technologies change really fast, but fundamentals stay stable over long periods of time. A deep understanding of the fundamentals of domains has been a key asset throughout our lives. Not just for our programming ventures, but for life in general, as clarity of thinking has had serendipitous applications in our lives when it throws curveballs at us.
 
-*Fun*: Books that treat the subject in a creative fun way are chosen over encyclopediac canons/surveys that catalog the state of art. This is the reason Udi Manber features over other encyclopediac manuals in the field.
+*Fun*: Books that treat the subject in a creative fun way are chosen over encyclopediac canons/surveys that catalog the state of art. This is the reason Udi Manber and Operating Systems: Three Easy Pieces features over other encyclopediac manuals in the field.
 
 *Big Picture*: It should give one an umbrella view of the subject in hand and give enough depth to make them literate about the subject.
 
