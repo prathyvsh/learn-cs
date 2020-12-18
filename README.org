@@ -58,7 +58,9 @@ A book that can help bolster your functional programming knowledge after HtDP is
 ** [[https://amzn.to/3h0NNbF][How to Solve It]]
 *** George Pólya
 
-[[./img/how-to-solve-it.jpg]]
+#+BEGIN_HTML
+<img src="./img/how-to-solve-it.jpg" width="400px" alt="Cover of How to Solve It" />
+#+END_HTML
 
 Once you are through these, you would have solved a good number of problems and might be after something that outlines a good approach towards problem solving. How to Solve It is a good read in this direction.
 
