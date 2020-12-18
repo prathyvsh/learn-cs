@@ -55,6 +55,13 @@ After getting an overview, we recommend some hands-on programming straight away 
 
 A book that can help bolster your functional programming knowledge after HtDP is The Little Schemer. It has a quirky pedagogy style and gives a cursory look at ideas like continuations which are not present in HtDP.
 
+** [[https://amzn.to/3h0NNbF][How to Solve It]]
+*** George Pólya
+
+[[./img/how-to-solve-it.jpg]]
+
+Once you are through these, you would have solved a good number of problems and might be after something that outlines a good approach towards problem solving. How to Solve It is a good read in this direction.
+
 ** Code
 *** Charles Petzold
 
